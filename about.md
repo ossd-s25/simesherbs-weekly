@@ -4,9 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a Senior currently set to graduate with a degree in CS and a degree in Linguistics. Outside of class, I am a huge New York sports fan, as well as a big fan of the video game Super Smash Brothers Melee for the Gamecube. 
 
