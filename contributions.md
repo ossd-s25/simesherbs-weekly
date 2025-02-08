@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Jan 30   | [contribution link](https://en.wikipedia.org/wiki/Special:Contributions/Simesherbs)    | Wikipedia    |   Updated information in article to be accurate with official info    |
-|     |     |     |      |
+| Jan 30   | [contribution link](https://en.wikipedia.org/wiki/Special:Contributions/Simesherbs)    | Wikipedia    |   Updated information in article to be accurate with official info.    |
+| Feb 08   | [contribution link](https://www.openstreetmap.org/user/simesherbs/history)    |  OpenStreetMaps   |   Removed restaurant location that is now shut down.   |
 |     |     |     |      |
