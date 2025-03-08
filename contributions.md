@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | Jan 30   | [contribution link](https://en.wikipedia.org/wiki/Special:Contributions/Simesherbs)    | Wikipedia    |   Updated information in article to be accurate with official info.    |
 | Feb 08   | [contribution link](https://www.openstreetmap.org/user/simesherbs/history)    |  OpenStreetMaps   |   Removed restaurant location that is now shut down.   |
 | Feb 17    |  [contribution link](https://www.openstreetmap.org/user/simesherbs/history)    |   OpenStreetMaps  |   Added local restaurant that was not present   |
+| Mar 08   |  [contribution link](https://forum.freecodecamp.org/t/feedback-on-my-quote-machine-generator/738034/2?u=simesherbs)    |   freeCodeCamp  |   Gave user feedback on web design practice activity   |
