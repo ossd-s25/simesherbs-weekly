@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Mar 08   |  [contribution link](https://forum.freecodecamp.org/t/feedback-on-my-quote-machine-generator/738034/2?u=simesherbs)    |   freeCodeCamp  |   Gave user feedback on web design practice activity   |
 | Mar 12   |  [contribution link](https://github.com/ciromattia/kcc/issues/863)    |   GitHub Issue   |   Reporting UI bug   |
 | Mar 12| [contribution link](https://github.com/ciromattia/kcc/pull/864) | GitHub | Merged code that fixed UI bug |
+| Mar 13| [contribution link](https://github.com/ciromattia/kcc/pull/866) | GitHub | Merged code that added new feature |
